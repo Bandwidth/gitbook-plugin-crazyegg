@@ -1,0 +1,32 @@
+{
+  "name": "gitbook-plugin-crazyegg",
+  "version": "1.0.0",
+  "description": "Add crazyegg code to gitbook ",
+  "scripts": {
+    "test": "echo \"No Tests\""
+  },
+  "keywords": [
+    "gitbook",
+    "crazyegg",
+    "analytics"
+  ],
+  "author": "Dan Tolbert",
+  "license": "MIT",
+  "engines": {
+    "gitbook": ">=3.0.0-pre.0"
+  },
+  "gitbook": {
+    "properties": {
+      "partOne": {
+        "description": "First 4 digits of Crazy Egg UserId",
+        "required": true,
+        "type": "string"
+      },
+      "partTwo": {
+        "description": "Last 4 digits of Crazy Egg UserId",
+        "required": true,
+        "type": "string"
+      }
+    }
+  }
+}
