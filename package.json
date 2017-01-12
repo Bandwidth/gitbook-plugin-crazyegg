@@ -10,6 +10,10 @@
     "crazyegg",
     "analytics"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtolb/gitbook-plugin-crazyegg"
+  },
   "author": "Dan Tolbert",
   "license": "MIT",
   "engines": {
