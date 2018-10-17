@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dtolb/gitbook-plugin-crazyegg"
+    "url": "https://github.com/Bandwidth/gitbook-plugin-crazyegg"
   },
   "author": "Dan Tolbert",
   "license": "MIT",
